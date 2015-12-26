@@ -8,5 +8,7 @@ port (
   );
 end xor3;
 
-architecture arch_xor of xor3 is
+architecture arch of xor3 is
 begin
+  output1 <= input1 xor input2 xor input3;
+end architecture arch;
