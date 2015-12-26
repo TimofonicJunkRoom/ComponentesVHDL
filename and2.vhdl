@@ -6,7 +6,7 @@ port (
   input1, input2 : in std_logic;
   output1        : out std_logic
   );
-end and2;
+end entity and2;
 
 architecture arch of and2 is
 begin
