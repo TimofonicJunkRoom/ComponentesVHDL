@@ -6,7 +6,7 @@ port (
   input1, input2 : in std_logic;
   output1        : out std_logic
   );
-end xor2;
+end entity xor2;
 
 architecture arch of xor2 is
 begin
