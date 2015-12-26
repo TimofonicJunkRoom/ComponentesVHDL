@@ -8,7 +8,7 @@ port (
   );
 end and2;
 
-architecture arch_and of and2 is
+architecture arch of and2 is
 begin
   output1 <= input1 and input2;
-end architecture arch_and;
+end architecture arch;
