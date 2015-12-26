@@ -8,7 +8,7 @@ port (
   input1, input2 : in std_logic;
   output1        : out std_logic
   );
-end or2;
+end entity or2;
 
 architecture arch of or2 is
 begin
