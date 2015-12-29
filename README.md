@@ -12,7 +12,6 @@ os arquivos da lista a seguir sao a resposta do primeiro exercicio
 - xor3
 - xor4
 - not_port
-- 
 
 os arquivos a seguir sao a resposta do segundo ecercicio
 
